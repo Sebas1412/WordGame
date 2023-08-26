@@ -13,4 +13,4 @@ funciones en una función madre.
 Este proyecto fue realizado con el acompañamiento de los profesores de Universidad Nacional del centro de la Provincia de Buenos Aires: Virginia Cifuentes y Federico Améndola 
 
 
-Muchas Gracias# WordGame
+Muchas Gracias
